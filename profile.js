@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "My name is Roisin (pronounced Row-Sheen) and I am currently a rising junior from Durham, NC. I am deeply interested in science, specifically Cancer Genomics and Genetics. Through the Dream-High summer experience, I hope to develop skills in connecting real genomic and clinical data on breast cancer to better understand this disease. Something I am excited to explore in computational biology is Spatial Modeling.",
 
   /*
   Optional photo:
