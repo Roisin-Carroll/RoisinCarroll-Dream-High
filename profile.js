@@ -58,7 +58,7 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
+    description: "For my final project, I am planning to create a multi-part educational video explaining the core biological mechanisms of cancer, covering carcinogenesis, metastasis, apoptosis, and angiogenesis. I plan to post my video here on GitHub and on various social media platforms to ensure that as many people as possible are informed.",
     url: ""
   },
 
