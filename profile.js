@@ -59,7 +59,7 @@ const studentProfile = {
     },
      {
       title: "Predictive modeling for cancer prognosis",
-      url: "https://https://rpubs.com/RoisinC/1451949"
+      url: "https://rpubs.com/RoisinC/1451949"
     }
   ],
 
